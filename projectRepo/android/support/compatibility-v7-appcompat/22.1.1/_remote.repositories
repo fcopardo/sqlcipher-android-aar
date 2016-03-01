@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu May 14 16:11:32 CLT 2015
+compatibility-v7-appcompat-22.1.1.jar>=
+compatibility-v7-appcompat-22.1.1.apklib>=
+compatibility-v7-appcompat-22.1.1.pom>=
+compatibility-v7-appcompat-22.1.1-sources.jar>=

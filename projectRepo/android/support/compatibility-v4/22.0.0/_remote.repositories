@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 29 11:02:05 CLT 2015
+compatibility-v4-22.0.0.pom>=
+compatibility-v4-22.0.0-sources.jar>=
+compatibility-v4-22.0.0.jar>=

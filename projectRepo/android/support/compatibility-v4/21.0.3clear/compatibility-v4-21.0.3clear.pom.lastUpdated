@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Feb 13 06:37:12 CLST 2015
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://repo1.maven.org/maven2/it/sephiroth/android/library/horizontallistview/library/1.2.1/.error=
+http\://repo.spring.io/libs-release/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1423820230543
+http\://repo.spring.io/libs-release/.lastUpdated=1423820228752
+https\://repo.maven.apache.org/maven2/.lastUpdated=1423820232744
+https\://mint.splunk.com/gradle/.lastUpdated=1423820231941
+https\://repo.maven.apache.org/maven2/.error=
+https\://mint.splunk.com/gradle/.error=
+http\://repo1.maven.org/maven2/it/sephiroth/android/library/horizontallistview/library/1.2.1/.lastUpdated=1423820231056

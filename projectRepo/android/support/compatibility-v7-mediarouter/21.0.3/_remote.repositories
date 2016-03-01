@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Feb 12 23:41:41 CLST 2015
+compatibility-v7-mediarouter-21.0.3.apklib>=
+compatibility-v7-mediarouter-21.0.3.jar>=
+compatibility-v7-mediarouter-21.0.3-sources.jar>=
+compatibility-v7-mediarouter-21.0.3.pom>=
