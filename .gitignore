@@ -30,3 +30,4 @@ proguard/
 .idea/
 *.iml
 README.md
+/libs
