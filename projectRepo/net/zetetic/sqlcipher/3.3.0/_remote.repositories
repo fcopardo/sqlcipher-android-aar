@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jul 24 15:29:16 CLT 2015
+sqlcipher-3.3.0.pom>=
+sqlcipher-3.3.0.jar>=
